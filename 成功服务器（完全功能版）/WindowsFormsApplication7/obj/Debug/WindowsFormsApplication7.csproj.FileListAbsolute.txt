@@ -1,0 +1,36 @@
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\ServerSocket.Form1.resources
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\c\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\ServerSocket.Form1.resources
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\c\成功服务器\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+D:\c\成功服务器\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\ServerSocket.Form1.resources
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\c\成功服务器 - 副本\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\ServerSocket.Form1.resources
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\c\成功服务器（完全功能版）\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
